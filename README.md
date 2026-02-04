@@ -9,8 +9,8 @@
 ## About Me
 
 I am a Full-Stack Web Developer from Palestine, passionate about designing and developing scalable, efficient, and user-focused web applications.  
-I specialize in creating clean, maintainable code and delivering seamless digital experiences across frontend and backend environments.
-I continuously expand my technical expertise in **Next.js**, **TypeScript**, **Node.js**, and modern deployment workflows.
+I specialize in creating clean, maintainable code and delivering seamless digital experiences across frontend and backend environments.  
+I continuously expand my technical expertise in **React.js** ,**Next.js** ,**TypeScript**, **Node.js**, and modern deployment workflows.  
 My goal is to contribute to impactful software solutions that combine strong technical foundations with intuitive user experiences.
 
 ---
@@ -20,13 +20,13 @@ My goal is to contribute to impactful software solutions that combine strong tec
 | Category | Technologies |
 |-----------|---------------|
 | **Languages** | C#, JavaScript, TypeScript, SQL, HTML, CSS |
-| **Frameworks & Libraries** | ASP.NET Core, React, Next.js, Node.js, Express.js, Flutter |
+| **Frameworks & Libraries** | ASP.NET Core, React, Next.js, Node.js, Express.js, FastAPI, Flutter |
 | **UI / Styling** | Tailwind CSS, Bootstrap, Figma |
-| **Databases** | PostgreSQL, SQL Server , Microsoft Access |
-| **Tools & Platforms** | Visual Studio, VS Code, Git, GitHub, Postman |
+| **Databases** | PostgreSQL, SQL Server, Microsoft Access |
+| **DevOps & Tools** | Docker, Git, GitHub, Postman |
+| **Code Quality** | Clean Code, Maintainable Code, Scalable Architecture |
 
 ---
-
 ## 🧠 Tech Stack
 
 <table align="center">
@@ -48,67 +48,67 @@ My goal is to contribute to impactful software solutions that combine strong tec
   <b>TypeScript</b>
 </td>
 <td align="center" width="130">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>
-  <b>Node.js</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/><br>
+  <b>Tailwind CSS</b>
 </td>
 <td align="center" width="130">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>
-  <b>Express.js</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>
+  <b>Node.js</b>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="130">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/><br>
-  <b>C#</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>
+  <b>Express.js</b>
 </td>
 <td align="center" width="130">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/><br>
-  <b>ASP.NET Core</b>
-</td>
-<td align="center" width="130">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/><br>
-  <b>Flutter</b>
-</td>
-<td align="center" width="130">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>
-  <b>Tailwind CSS</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/><br>
+  <b>FastAPI</b>
 </td>
 <td align="center" width="130">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>
   <b>PostgreSQL</b>
 </td>
 <td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/><br>
+  <b>SQL Server</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/48/sql.png" width="50"/><br>
+  <b>SQL</b>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50"/><br>
+  <b>Supabase</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>
+  <b>Docker</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/fluency/48/maintenance.png" width="50"/><br>
+  <b>Clean Code</b>
+</td>
+<td align="center" width="130">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>
   <b>Git & GitHub</b>
 </td>
+<td align="center" width="130"></td>
+<td align="center" width="130"></td>
+<td align="center" width="130"></td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics & Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nadasalha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadasalha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasalha&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadasalha&theme=tokyonight" />
-</p>
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadasalha&theme=tokyonight" width="96%"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadasalha&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
