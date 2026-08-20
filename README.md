@@ -105,14 +105,6 @@ My goal is to contribute to impactful software solutions that combine strong tec
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadasalha&theme=tokyonight" width="96%"/>
-</p>
-
----
-
 ## 💬 Let's Connect
 
 <p align="center">
