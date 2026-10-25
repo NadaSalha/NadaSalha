@@ -1,10 +1,20 @@
-<h1 align="center">Nada Salha</h1>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:4338ca,75:7c3aed,100:06b6d4&height=200&section=header&text=Nada%20Salha&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%7C%20Palestine&descSize=16&descAlignY=60&animation=fadeIn"
+    width="100%"
+    alt="Nada Salha — Full-Stack Web Developer"
+  />
+</div>
+
+
+
+<!-- <h1 align="center">Nada Salha</h1>
 
 <p align="center">
   <strong>Full-Stack Web Developer | Based in Palestine</strong>
-</p>
+</p> -->
 
----
 
 ## About Me
 
